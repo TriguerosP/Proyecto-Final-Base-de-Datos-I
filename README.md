@@ -2,7 +2,9 @@
 
 Proyecto final del curso Base de Datos I
 ESTUDIANTES: 
+
 Anibal Alejandro Trigueros Pinto  0907-24-249
+
 Ronaldo Emanuel Nájera Argueta 0907-24-11516
 
 MAGIS-AUTO es un sistema web para administrar créditos de vehículos: registra clientes y fiadores, los vehículos que quedan en garantía, emite créditos con su plan de pagos, recibe pagos y genera 24 reportes financieros.
