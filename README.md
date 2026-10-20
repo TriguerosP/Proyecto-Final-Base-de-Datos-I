@@ -1,6 +1,7 @@
 # MAGIS-AUTO — Sistema de Crédito Financiero Automotriz
 
 Proyecto final del curso Base de Datos I
+
 ESTUDIANTES: 
 
 Anibal Alejandro Trigueros Pinto  0907-24-249
